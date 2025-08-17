@@ -1,0 +1,32 @@
+{
+  "geometry": "600x320+100+100",
+  "always_on_top": true,
+  "alpha": 1.0,
+  "colors": {
+    "background": "#070707",
+    "text": "#FFFFFF",
+    "accent": "#1b1be4",
+    "border": "#ff0000"
+  },
+  "border_thickness": 2,
+  "base_font": {
+    "family": "Times New Roman",
+    "size": 15,
+    "weight": "normal",
+    "slant": "roman"
+  },
+  "content": {
+    "text": "My Name is Shivam Sahu",
+    "tags": {
+      "size_17": {
+        "config": {},
+        "ranges": [
+          [
+            "1.11",
+            "1.22"
+          ]
+        ]
+      }
+    }
+  }
+}

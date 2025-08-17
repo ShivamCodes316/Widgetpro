@@ -1,0 +1,9 @@
+{
+    "background": "#0A1F44",
+    "text_color": "#FFFFFF",
+    "accent_color": "#FFD700",
+    "border_color": "#FF0000",
+    "border_thickness": 2,
+    "font": "Segoe UI",
+    "font_size": 16
+}
