@@ -1,0 +1,63 @@
+{
+  "geometry": "600x320+775+123",
+  "always_on_top": true,
+  "alpha": 1.0,
+  "colors": {
+    "background": "#1f1f1f",
+    "text": "#FFFFFF",
+    "accent": "#FFD700",
+    "border": "#ff3333"
+  },
+  "border_thickness": 2,
+  "base_font": {
+    "family": "Times New Roman",
+    "size": 16,
+    "weight": "normal",
+    "slant": "roman"
+  },
+  "content": {
+    "text": "Don\u2019t overcomplicate. Don\u2019t overthink.\nDo the checklist. Stay slow, steady, and consistent.\nNo shortcuts \u2014 1 to 100 isn\u2019t possible. Burnout is.\nKeep your eyes on the goal: IISc.\nDon\u2019t settle for mediocre \u2014 you\u2019re built for greatness.",
+    "tags": {
+      "size_18": {
+        "config": {},
+        "ranges": [
+          [
+            "4.28",
+            "4.33"
+          ]
+        ]
+      },
+      "bold": {
+        "config": {},
+        "ranges": [
+          [
+            "4.28",
+            "4.32"
+          ]
+        ]
+      },
+      "color_#0f0000": {
+        "config": {
+          "foreground": "#0f0000"
+        },
+        "ranges": [
+          [
+            "4.28",
+            "4.33"
+          ]
+        ]
+      },
+      "color_#ffffff": {
+        "config": {
+          "foreground": "#ffffff"
+        },
+        "ranges": [
+          [
+            "1.0",
+            "5.55"
+          ]
+        ]
+      }
+    }
+  }
+}
